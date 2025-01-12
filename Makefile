@@ -1,2 +1,2 @@
-gcc -o program program.c
-./program sim2.c
+all:
+	gcc -o main sim2.c
